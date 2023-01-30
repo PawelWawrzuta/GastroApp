@@ -1,0 +1,56 @@
+﻿@using GastroApp.Models.Samochody.ViewModel
+@model IEnumerable<IndexZuzycia>
+@{
+    ViewData["Title"] = "Index";
+}
+<br />
+<br />
+<partial name="~/Views/Shared/_Notifications.cshtml" />
+<div class="row">
+    <div class="col-6">
+        <h2>Lista raportów zużycia</h2>
+    </div>
+</div>
+
+<br />
+<div>
+    <table class="table table-striped border">
+        <thead>
+            <tr class="table-light">
+                <th>
+                    @Html.DisplayNameFor(c => c.Imie)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.Nazwisko)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.Przebieg)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.Data)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model.Reverse())
+            {
+                <tr>
+                    <td>@item.Imie</td>
+                    <td>@item.Nazwisko</td>
+                    <td>@item.Przebieg</td>
+                    <td>@item.Data.ToString("dd/MM/yyyy")</td>
+
+                    <td>
+                        <a asp-action="DeleteZuzycie" class="btn btn-danger" asp-route-id="@item.IdZuzycia" title="Usuń"> <i class="bi bi-trash"></i> </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+
+    </table>
+</div>
+
+

@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Mapa";
+}
+@*mapa*@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+
+@*searcher*@
+<link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
+<script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+
+<style>
+    #map {
+        position: absolute;
+        top: 9%;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+</style>
+
+<div class="text-center">
+    <div id="map" style="width: 100%; height: 100%;">
+    </div>
+
+</div>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+
+<script>
+    var map = L.map('map').setView([49.82173913028248, 19.044879000795255], 12);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+    L.Control.geocoder().addTo(map);
+
+    $.ajax({
+        url: "@Url.Action("GetCoordinates")",
+        method: "GET",
+        dataType: "json",
+        success: function(result) {
+            console.log(result);
+
+            for (var i = 0; i < result.value.length; i++) {
+                var lat = result.value[i].latitude;
+                var lon = result.value[i].longitude;
+                var address = result.value[i].address;
+                var dataOne = result.value[i].dataOne;
+                var nr = result.value[i].nrZamowienia;
+
+                var marker = L.marker([lat, lon]).addTo(map);
+                marker.bindPopup(address + "<br>" + dataOne + "<br>" + nr);
+            }
+
+        },
+        error: function(req, status, error) {
+            console.log(error);
+        }
+    });
+
+
+</script>

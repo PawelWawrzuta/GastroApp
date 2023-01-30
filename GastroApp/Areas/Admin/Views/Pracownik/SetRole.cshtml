@@ -1,0 +1,72 @@
+﻿@model GastroApp.Models.Pracownicy.ViewModel.PracownikRole;
+@{
+    ViewData["Title"] = "Stanowisko nowego pracownika";
+}
+
+<br />
+<br />
+
+<h2>Stanowisko nowego pracownika</h2>
+
+<form asp-action="SetRole" method="post">
+    <div class="p-4 rounded border">
+
+        <input type="hidden" asp-for="Id" />
+
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Imie"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Imie" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Nazwisko"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Nazwisko" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Email"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Email" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="PhoneNumber">Telefon</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="PhoneNumber" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+
+        <br />
+        <p class="text-primary">Jeśli nowy pracownik potwierdza swoje dane, przypisz mu stanowisko.</p>
+        <div class="form-group row">
+            <div class="col-2">
+                <label>Stanowisko</label>
+            </div>
+            <div class="col-5">
+                <select asp-for="IdRole" asp-items="Model.RoleSelect" class="form-control">
+                </select>
+            </div>
+        </div>
+
+    </div>
+    
+    <br/>
+    <div>
+        
+        <input type="submit" class="btn btn-success" value="Zapisz" />
+        <a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>
+    </div>
+</form>

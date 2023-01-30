@@ -1,0 +1,59 @@
+﻿@using GastroApp.Models.Pracownicy
+@model Pracownik
+@{
+    ViewData["Title"] = "Usuwanie pracownika";
+}
+
+<br />
+<br />
+
+<h2>Usuwanie pracownika</h2>
+
+<form asp-action="Delete" method="post">
+    <div class="p-4 rounded border">
+
+        <input type="hidden" asp-for="Id" />
+
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Imie"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Imie" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Nazwisko"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Nazwisko" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Email"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Email" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="PhoneNumber">Telefon</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="PhoneNumber" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+    </div>
+    
+    <br/>
+    <div>
+        <input type="submit" class="btn btn-danger" value="Usuń" />
+        <a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>
+    </div>
+</form>

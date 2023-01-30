@@ -1,0 +1,209 @@
+﻿@using GastroApp.Models.Zamowienia.ViewModel
+@model ZamowieniaIndex
+@{
+    List<String> kierowcyWszyscy = new List<string>();
+
+    if (Model.ZamowieniaPrzypisaneWDrodzeProblem != null)
+    {
+        foreach (var item in Model.ZamowieniaPrzypisaneWDrodzeProblem)
+        {
+            kierowcyWszyscy.Add(item.UserName);
+        }
+    }
+
+    List<String> kierowcyZZamowieniem = kierowcyWszyscy.Distinct().ToList();
+
+}
+@{
+    ViewData["Title"] = "Index";
+}
+<partial name="~/Views/Shared/_Notifications.cshtml" />
+<br />
+<br />
+<div class="row">
+    <div class="col-6">
+        <h2>Lista zamówień</h2>
+    </div>
+    <div class="col-6 text-right">
+        <a asp-controller="NoweZamowienie" asp-action="ProduktyIndex" class="btn btn-success"><i class="bi bi-plus-circle"></i>&nbsp; Dodaj nowe zamówienie</a>
+        <a asp-action="Map" class="btn btn-success"> <i class="bi bi-geo-alt"></i>&nbsp; Mapa </a>
+        <a asp-action="Delivered" class="btn btn-success"><i class="bi bi-check-circle"></i>&nbsp; Zamówienia dostarczone</a>
+    </div>
+</div>
+
+<br />
+<form asp-action="SignToDriver" method="post">
+    <div>
+        <table class="table table-striped border">
+            <h5>Zamówienia przyjęte</h5>
+            <thead>
+                <tr class="table-light">
+                    <th>
+                        Zaznaczenie
+                    </th>
+                    <th>
+                        Numer zamówienia
+                    </th>
+                    <th>
+                        Godzina przyjęcie
+                    </th>
+                    <th>
+                        Adres
+                    </th>
+                    <th>
+                        Telefon
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @for (int i = 0; i < Model.ZamowieniaPrzyjete.Count(); i++)
+                {
+                    <tr>
+                        <input type="hidden" asp-for="@Model.ZamowieniaPrzyjete[i].IdZamowienia" />
+                        <td>
+                            <input asp-for="@Model.ZamowieniaPrzyjete[i].Zaznacz" type="checkbox">
+                        </td>
+                        <td>@Model.ZamowieniaPrzyjete[i].NrZamowienia</td>
+                        <td>@Model.ZamowieniaPrzyjete[i].DataOne.ToString("HH:mm")</td>
+                        <td>@Model.ZamowieniaPrzyjete[i].Adres</td>
+                        <td>@Model.ZamowieniaPrzyjete[i].Telefon</td>
+                        <td style="width: 150px">
+                            <div class="btn-group">
+                                <a asp-action="Edit" class="btn btn-primary" asp-route-id="@Model.ZamowieniaPrzyjete[i].IdZamowienia" title="Edytuj"> <i class="bi bi-pencil"></i> </a>
+                                <a asp-action="Details" class="btn btn-warning" asp-route-id="@Model.ZamowieniaPrzyjete[i].IdZamowienia" title="Szczegóły"> <i class="bi bi-list"></i> </a>
+                                <a asp-action="Delete" class="btn btn-danger" asp-route-id="@Model.ZamowieniaPrzyjete[i].IdZamowienia" title="Usuń"> <i class="bi bi-trash"></i> </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="col-3">
+            <p>Przypisz zaznaczone zamówienia do:</p>
+            <select asp-for="IdPracownika" asp-items="@Model.PracownikSelect" class="form-control"></select>
+        </div>
+    </div>
+    <br />
+    <input type="submit" class="btn btn-secondary" value="Przypisz" />
+</form>
+
+<br />
+
+@foreach (var kierowca in kierowcyZZamowieniem)
+{
+    <div>
+
+        <div class="row">
+            <div class="col-6">
+                <h5 style="display: inline-block">Zamówienia kierowcy: </h5>
+                <h5 style="display: inline-block" class="text-success">@kierowca</h5>
+            </div>
+            <div class="col-6 text-end">
+                <a asp-action="MapDriver" asp-route-id="@kierowca" class="btn btn-success"> <i class="bi bi-geo-alt"></i>&nbsp; Mapa: @kierowca </a>
+            </div>
+        </div>
+
+        <br />
+        <table class="table table-striped border">
+            <thead>
+                <tr class="table-light">
+                    <th>
+                        Numer zamówienia
+                    </th>
+                    <th>
+                        Status
+                    </th>
+                    <th>
+                        Godzina przyjęcia
+                    </th>
+                    <th>
+                        Godzina zmiany statusu
+                    </th>
+                    <th>
+                        Adres
+                    </th>
+                    <th>
+                        Telefon
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in @Model.ZamowieniaPrzypisaneWDrodzeProblem.Where(x => x.UserName == kierowca))
+                {
+                    if (item.IdStatusu == 2)
+                    {
+                        <tr>
+                            <td>@item.NrZamowienia</td>
+                            <td>@item.StatusNazwa</td>
+                            <td>@item.DataOne.ToString("HH:mm")</td>
+                            <td>
+                                @if (@item.DataTwo.HasValue)
+                                {
+                                    @item.DataTwo.Value.ToString("HH:mm")
+                                }
+                            </td>
+                            <td>@item.Adres</td>
+                            <td>@item.Telefon</td>
+                            <td style="width: 150px">
+                                <div class="btn-group">
+                                    <a asp-action="BackSignToDriver" class="btn btn-info" asp-route-id="@item.IdZamowienia" title="Cofnij przypisanie"> <i class="bi bi-backspace"></i> </a>
+                                    <a asp-action="Details" class="btn btn-warning" asp-route-id="@item.IdZamowienia" title="Szczegóły"> <i class="bi bi-list"></i> </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                    if (item.IdStatusu == 3)
+                    {
+                        <tr>
+                            <td>@item.NrZamowienia</td>
+                            <td>@item.StatusNazwa</td>
+                            <td>@item.DataOne.ToString("HH:mm")</td>
+                            <td>
+                                @if (@item.DataTwo.HasValue)
+                                {
+                                    @item.DataTwo.Value.ToString("HH:mm")
+                                }
+                            </td>
+                            <td>@item.Adres</td>
+                            <td>@item.Telefon</td>
+                            <td style="width: 150px">
+                                <div class="btn-group">
+                                    <a asp-action="Details" class="btn btn-warning" asp-route-id="@item.IdZamowienia" title="Szczegóły"> <i class="bi bi-list"></i> </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                    if (item.IdStatusu == 5)
+                    {
+                        <tr>
+                            <td>@item.NrZamowienia</td>
+                            <td class="text-danger">@item.StatusNazwa</td>
+                            <td>@item.DataOne.ToString("HH:mm")</td>
+                            <td>
+                                @if (@item.DataTwo.HasValue)
+                                {
+                                    @item.DataTwo.Value.ToString("HH:mm")
+                                }
+                            </td>
+                            <td>@item.Adres</td>
+                            <td>@item.Telefon</td>
+                            <td style="width: 150px">
+                                <div class="btn-group">
+                                    <a asp-action="BackSignToDriver" class="btn btn-info" asp-route-id="@item.IdZamowienia" title="Cofnij przypisanie"> <i class="bi bi-backspace"></i> </a>
+                                    <a asp-action="Edit" class="btn btn-primary" asp-route-id="@item.IdZamowienia" title="Edytuj"> <i class="bi bi-pencil"></i> </a>
+                                    <a asp-action="Details" class="btn btn-warning" asp-route-id="@item.IdZamowienia" title="Szczegóły"> <i class="bi bi-list"></i> </a>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+        <br/>
+    </div>
+}

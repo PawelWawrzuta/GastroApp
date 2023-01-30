@@ -1,0 +1,22 @@
+﻿@using GastroApp.Models.Pracownicy
+@model Pracownik
+@{
+    ViewData["Title"] = "Pomyślna rejestracja";
+}
+
+<div class="text-center">
+    <br />
+    <h1 class="display-4">Udało Ci się zarejestrować!</h1>
+    <br />
+    <h3>
+        Twoja nazwa użytkownika to: <a class="text-success">@Model.UserName</a>
+        <br />
+        Zapamiętaj go, ponieważ przyda się przy logowaniu!
+    </h3>
+
+    <br />
+    <p>
+        Aby móc korzystać z serwisu, twoje konto musi zostać zatwierdzone przez Administratora,
+        do tego czasu nie możesz się zalogować.
+    </p>
+</div>

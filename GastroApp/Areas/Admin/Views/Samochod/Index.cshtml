@@ -1,0 +1,59 @@
+﻿@using GastroApp.Models.Samochody
+@model IEnumerable<Samochod>
+@{
+    ViewData["Title"] = "Index";
+}
+<partial name="~/Views/Shared/_Notifications.cshtml" />
+<br /><br />
+<div class="row">
+    <div class="col-6">
+        <h2>Lista samochodów</h2>
+    </div>
+    <div class="col-6 text-right">
+        <a asp-action="Create" class="btn btn-success"><i class="bi bi-plus-circle"></i>&nbsp; Dodaj nowy samochód</a>
+    </div>
+</div>
+
+<br />
+<div>
+    <table class="table table-striped border">
+        <thead>
+        <tr class="table-light">
+            <th>
+                @Html.DisplayNameFor(c => c.Marka)
+            </th>
+            <th>
+                @Html.DisplayNameFor(c => c.Model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(c => c.NrRejestracyjny)
+            </th>
+            <th>
+                @Html.DisplayNameFor(c => c.Opis)
+            </th>
+            <th></th>
+            <th></th>
+        </tr>
+        </thead>
+       
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Marka</td>
+                    <td>@item.Model</td>
+                    <td>@item.NrRejestracyjny</td>
+                    <td>@item.Opis</td>
+                    
+                    <td>
+                        <partial name="_ButtonPartial" model="@item.IdSamochodu" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+
+</table>
+</div>
+
+

@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GastroApp</title>
+    <!--Bootstrap Theme-->
+    <link rel="stylesheet" href="~/css/BootTheme.css" />
+
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/GastroApp.styles.css" asp-append-version="true" />
+
+    <!--Icons-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <!-- Alerts -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">GastroApp</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        @if (this.User.IsInRole("Administrator"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="Admin" asp-controller="Produkt" asp-action="Index">Produkty</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="Admin" asp-controller="Samochod" asp-action="Index">Samochody</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="Admin" asp-controller="Pracownik" asp-action="Index">Pracownicy</a>
+                            </li>
+                        }
+                        @if (this.User.IsInRole("Kierowca"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="Kierowca" asp-controller="Zamowienia" asp-action="Index">Zamówienia</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="Kierowca" asp-controller="Samochod" asp-action="CreateZuzycie">Raport samochodu</a>
+                            </li>
+                        }
+                        @if (this.User.IsInRole("Kasjer"))
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="Kasjer" asp-controller="Zamowienia" asp-action="Index">Zamówienia</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" asp-area="Kasjer" asp-controller="NoweZamowienie" asp-action="ProduktyIndex">Dodaj zamówienie</a>
+                            </li>
+                        }
+                    </ul>
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - GastroApp
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

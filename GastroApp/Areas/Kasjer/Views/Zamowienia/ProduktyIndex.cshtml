@@ -1,0 +1,87 @@
+﻿@using GastroApp.Models.Zamowienia.ViewModel
+@model IList<ProduktyZIloscia>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+@using GastroApp.Models.Zamowienia
+@using GastroApp.Utility
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    List<ListaZamowienia> listaZamowienia = HttpContextAccessor.HttpContext.Session.Get<List<ListaZamowienia>>("listaZamowienia");
+    if (listaZamowienia == null)
+    {
+        listaZamowienia = new List<ListaZamowienia>();
+    }
+}
+
+<br />
+<br />
+<div class="row">
+    <div class="col-6">
+        <h2>Lista produktów</h2>
+    </div>
+</div>
+
+<br />
+<form asp-action="AddToCard" method="post">
+    <div>
+        <table class="table table-striped border">
+            <thead>
+                <tr class="table-light">
+                    <th>
+                        Nazwa
+                    </th>
+                    <th>
+                        Cena
+                    </th>
+                    <th>
+                        Ilosc
+                    </th>
+                    <th>
+                        Opis
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @for (int i = 0; i < Model.Count(); i++)
+                {
+                    {
+                        <tr>
+                            <td>@Model[i].Nazwa</td>
+                            <td>
+                                @Model[i].Cena.ToString("0.00")
+                                <input asp-for="@Model[i].Cena" type="hidden" value="@Model[i].Cena">
+                            </td>
+                            <td>
+                                @{
+                                    var c = listaZamowienia.Where(x => x.IdProduktu == Model[i].IdProduktu).Select(x => x.Ilosc).Sum();
+                                }
+                                <input asp-for="@Model[i].IloscString" type="number" value="@c" step="0.5" min="0">
+                            </td>
+                            <td>
+                                <input asp-for="@Model[i].Opis" class="form-control">
+                            </td>
+
+                            <td>
+                                <input asp-for="@Model[i].IdProduktu" type="hidden" value="@Model[i].IdProduktu">
+                                <a asp-action="ProduktDetails" class="btn btn-warning" asp-route-id="@Model[i].IdProduktu" title="Szczegóły"> <i class="bi bi-list"></i> </a>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+    <input type="submit" class="btn btn-success" value="Zapisz" />
+</form>
+
+
+
+
+
+

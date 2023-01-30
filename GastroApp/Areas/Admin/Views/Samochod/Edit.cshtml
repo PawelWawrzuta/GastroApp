@@ -1,0 +1,113 @@
+﻿@using GastroApp.Models.Samochody.ViewModel
+@model SamochodZRodzajemPaliwa
+@{
+    ViewData["Title"] = "Edytowanie samochodu";
+}
+
+<br />
+<br />
+
+<h2>Edytowanie samochodu</h2>
+<h5 class="text-danger">@ViewBag.msg</h5>
+
+<form asp-action="Edit" method="post">
+    <div class="p-4 rounded border">
+        <div asp-validation-summary="ModelOnly" class="text-danger">
+        </div>
+         <input type="hidden" asp-for="IdSamochodu" />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Marka"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Marka" class="form-control" />
+                <span asp-validation-for="Marka" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Model"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Model" class="form-control" />
+                <span asp-validation-for="Model" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="NrRejestracyjny"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="NrRejestracyjny" class="form-control" />
+                <span asp-validation-for="NrRejestracyjny" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Opis"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Opis" class="form-control" />
+                <span asp-validation-for="Opis" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="IdRodzajuPaliwa"></label>
+            </div>
+            <div class="col-5">
+                <select asp-for="IdRodzajuPaliwa" asp-items="Model.RodzajPaliwaSelect" class="form-control"></select>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="OC"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="OC" class="form-control" />
+                <span asp-validation-for="OC" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="AC"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="AC" class="form-control" />
+                <span asp-validation-for="AC" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Przeglad"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Przeglad" class="form-control" />
+                <span asp-validation-for="Przeglad" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    
+    <br/>
+    <div>
+        <input type="submit" class="btn btn-info" value="Zedytuj" />
+        <a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>
+    </div>
+</form>
+
+
+
+
+@section scripts
+    {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

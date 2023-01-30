@@ -1,0 +1,86 @@
+﻿@using GastroApp.Models.Zamowienia
+@model Klient
+
+@{
+    ViewData["Title"] = "Dodawanie klienta";
+}
+
+@using GastroApp.Utility
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    Klient daneKlienta = HttpContextAccessor.HttpContext.Session.Get<Klient>("daneKlienta");
+    if (daneKlienta == null)
+    {
+        daneKlienta = new Klient();
+    }
+}
+
+
+<br />
+<br />
+
+<h2>Dodawanie klienta</h2>
+
+<form asp-action="DaneKlienta" method="post">
+    <div class="p-4 rounded border">
+        <div asp-validation-summary="ModelOnly" class="text-danger">
+        </div>
+
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Adres"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Adres" class="form-control" value="@daneKlienta.Adres"/>
+                <span asp-validation-for="Adres" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Miasto"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Miasto" class="form-control" value="@daneKlienta.Miasto"/>
+                <span asp-validation-for="Miasto" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="KodPocztowy"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="KodPocztowy" class="form-control" value="@daneKlienta.KodPocztowy"/>
+                <span asp-validation-for="KodPocztowy" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Telefon"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Telefon" class="form-control" value="@daneKlienta.Telefon"/>
+                <span asp-validation-for="Telefon" class="text-danger"></span>
+            </div>
+        </div>
+        
+    </div>
+    <br />
+    <div>
+        <input type="submit" class="btn btn-success" value="Przejdź do podsumowania" />
+        <a asp-action="ProduktyIndex" class="btn btn-secondary">Wróć do listy zamówienia</a>
+    </div>
+</form>
+
+
+
+
+@section scripts
+    {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

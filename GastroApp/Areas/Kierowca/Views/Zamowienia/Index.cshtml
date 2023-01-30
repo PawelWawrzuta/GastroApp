@@ -1,0 +1,201 @@
+﻿@using GastroApp.Models.Zamowienia.ViewModel
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@model ZamowieniaIndex
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<partial name="~/Views/Shared/_Notifications.cshtml" />
+<br />
+<br />
+<div class="row">
+    <div class="col-6">
+        <h2 style="display: inline">Lista zamówień (Kierowca </h2>
+        <h2 style="display: inline" class="text-success">@UserManager.GetUserName(User)</h2>
+        <h2 style="display: inline">)</h2>
+    </div>
+    <div class="col-6 text-right">
+        <a asp-action="Map" class="btn btn-success"> <i class="bi bi-geo-alt"></i>&nbsp; Mapa </a>
+        <a asp-action="Delivered" class="btn btn-success"><i class="bi bi-check-circle"></i>&nbsp; Zamówienia dostarczone</a>
+    </div>
+</div>
+
+<br />
+<form asp-action="ChangeStatus" method="post">
+    <h5>Zamówienia przypisane</h5>
+    <table class="table table-striped border">
+        <thead>
+            <tr class="table-light">
+                <th>
+                    Zaznaczenie
+                </th>
+                <th>
+                    Numer zamówienia
+                </th>
+                <th>
+                    Godzina przyjęcie
+                </th>
+                <th>
+                    Adres
+                </th>
+                <th>
+                    Telefon
+                </th>
+                <th>
+                    Sposób płatności
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @for (int i = 0; i < Model.ZamowieniaPrzypisane.Count(); i++)
+            {
+                <tr>
+                    <input type="hidden" asp-for="@Model.ZamowieniaPrzypisane[i].IdZamowienia" />
+                    <td>
+                        <input asp-for="@Model.ZamowieniaPrzypisane[i].Zaznacz" type="checkbox">
+                    </td>
+                    <td>@Model.ZamowieniaPrzypisane[i].NrZamowienia</td>
+                    <td>@Model.ZamowieniaPrzypisane[i].DataOne.ToString("HH:mm")</td>
+                    <td>@Model.ZamowieniaPrzypisane[i].Adres</td>
+                    <td>@Model.ZamowieniaPrzypisane[i].Telefon</td>
+                    <td>@Model.ZamowieniaPrzypisane[i].SposobPlatnosciNazwa</td>
+                    <td style="width: 150px">
+                        <div class="btn-group">
+                            <a asp-action="Details" class="btn btn-warning" asp-route-id="@Model.ZamowieniaPrzypisane[i].IdZamowienia" title="Szczegóły"> <i class="bi bi-list"></i> </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>Zaznaczone zamówienia będą w drodze.</p>
+    <input type="submit" class="btn btn-secondary" value="Zapisz" />
+</form>
+
+<br />
+
+@if (@Model.ZamowieniaWDrodze.Count() > 0)
+{
+    <div>
+        <h5>Zamówienia w drodze</h5>
+        <table class="table table-striped border">
+            <thead>
+                <tr class="table-light">
+                    <th>
+                        Numer zamówienia
+                    </th>
+                    <th>
+                        Godzina przyjęcie
+                    </th>
+                    <th>
+                        Godzina zmiany statusu
+                    </th>
+                    <th>
+                        Adres
+                    </th>
+                    <th>
+                        Telefon
+                    </th>
+                    <th>
+                        Sposób płatności
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @for (int i = 0; i < Model.ZamowieniaWDrodze.Count(); i++)
+                {
+                    <tr>
+                        <input type="hidden" asp-for="@Model.ZamowieniaWDrodze[i].IdZamowienia" />
+                        <td>@Model.ZamowieniaWDrodze[i].NrZamowienia</td>
+                        <td>@Model.ZamowieniaWDrodze[i].DataOne.ToString("HH:mm")</td>
+                        <td>
+                            @if (Model.ZamowieniaWDrodze[i].DataTwo.HasValue)
+                            {
+                                @Model.ZamowieniaWDrodze[i].DataTwo.Value.ToString("HH:mm")
+                            }
+                        </td>
+                        <td>@Model.ZamowieniaWDrodze[i].Adres</td>
+                        <td>@Model.ZamowieniaWDrodze[i].Telefon</td>
+                        <td>@Model.ZamowieniaWDrodze[i].SposobPlatnosciNazwa</td>
+                        <td style="width: 150px">
+                            <div class="btn-group">
+                                <a asp-action="ConfirmOrder" class="btn btn-success" asp-route-id="@Model.ZamowieniaWDrodze[i].IdZamowienia" title="Dostarcz zamówienie"> <i class="bi bi-truck"></i> </a>
+                                <a asp-action="Details" class="btn btn-warning" asp-route-id="@Model.ZamowieniaWDrodze[i].IdZamowienia" title="Szczegóły"> <i class="bi bi-list"></i> </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@if (@Model.ZamowieniaProblem.Count() > 0)
+{
+    <div>
+        <h5>Zamówienia z problemem</h5>
+        <table class="table table-striped border">
+            <thead>
+                <tr class="table-light">
+                    <th>
+                        Numer zamówienia
+                    </th>
+                    <th>
+                        Godzina przyjęcie
+                    </th>
+                    <th>
+                        Godzina zmiany statusu
+                    </th>
+                    <th>
+                        Adres
+                    </th>
+                    <th>
+                        Telefon
+                    </th>
+                    <th>
+                        Sposób płatności
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @for (int i = 0; i < Model.ZamowieniaProblem.Count(); i++)
+                {
+                    <tr>
+                        <input type="hidden" asp-for="@Model.ZamowieniaProblem[i].IdZamowienia" />
+                        <td>@Model.ZamowieniaProblem[i].NrZamowienia</td>
+                        <td>@Model.ZamowieniaProblem[i].DataOne.ToString("HH:mm")</td>
+                        <td>
+                            @if (Model.ZamowieniaProblem[i].DataTwo.HasValue)
+                            {
+                                @Model.ZamowieniaProblem[i].DataTwo.Value.ToString("HH:mm")
+                            }
+                        </td>
+                        <td>@Model.ZamowieniaProblem[i].Adres</td>
+                        <td>@Model.ZamowieniaProblem[i].Telefon</td>
+                        <td>@Model.ZamowieniaProblem[i].SposobPlatnosciNazwa</td>
+                        <td style="width: 150px">
+                            <div class="btn-group">
+                                <a asp-action="ConfirmOrder" class="btn btn-success" asp-route-id="@Model.ZamowieniaProblem[i].IdZamowienia" title="Dostarcz zamówienie"> <i class="bi bi-truck"></i> </a>
+                                <a asp-action="Details" class="btn btn-warning" asp-route-id="@Model.ZamowieniaProblem[i].IdZamowienia" title="Szczegóły"> <i class="bi bi-list"></i> </a>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+
+

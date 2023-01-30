@@ -1,0 +1,62 @@
+﻿@using GastroApp.Models.Samochody.ViewModel
+@model IndexZuzycia
+@{
+    ViewData["Title"] = "Usuwanie raportu zuzycia";
+}
+
+<br />
+<br />
+
+<h2>Usuwanie raportu zuzycia</h2>
+
+<form asp-action="DeleteZuzycie" method="post">
+    <div class="p-4 rounded border">
+
+        <input type="hidden" asp-for="IdZuzycia" />
+        <input type="hidden" asp-for="IdSamochodu" />
+        <input type="hidden" asp-for="IdPracownika" />
+
+
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Imie"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Imie" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Nazwisko"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Nazwisko" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Przebieg"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Przebieg" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Data"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Data" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+    </div>
+    
+    <br/>
+    <div>
+        <input type="submit" class="btn btn-danger" value="Usuń" />
+        <a asp-action="IndexZuzycie" asp-route-id="@Model.IdSamochodu" class="btn btn-secondary">Wróć do listy</a>
+    </div>
+</form>

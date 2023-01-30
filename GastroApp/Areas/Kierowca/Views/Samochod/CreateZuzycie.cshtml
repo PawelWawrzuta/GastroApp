@@ -1,0 +1,57 @@
+﻿@model GastroApp.Models.Samochody.ViewModel.ZuzycieZSamochodem
+@{
+    ViewData["Title"] = "Dodawanie dziennego zużycia";
+}
+
+<br />
+<br />
+
+<h2>Dodawanie dziennego zużycia</h2>
+
+<form asp-action="CreateZuzycie" method="post">
+    <div class="p-4 rounded border">
+        <div asp-validation-summary="ModelOnly" class="text-danger">
+        </div>
+        <h5 class="text-danger">@ViewBag.mgs</h5>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="IdSamochodu">Nr rejestracyjny samochodu</label>
+            </div>
+            <div class="col-5">
+                <select asp-for="IdSamochodu" asp-items="@Model.SamochodSelect" class="form-control"></select>
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="PrzebiegString">Przebieg</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="PrzebiegString" class="form-control" />
+                <span asp-validation-for="PrzebiegString" class="text-danger"></span>
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Data"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Data" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+    </div>
+    <br />
+    <div>
+        <input type="submit" class="btn btn-success" value="Zapisz" />
+        <a asp-controller="Zamowienia" asp-action="Index" class="btn btn-secondary">Wróć do listy zamówień</a>
+    </div>
+</form>
+
+
+@section scripts
+    {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

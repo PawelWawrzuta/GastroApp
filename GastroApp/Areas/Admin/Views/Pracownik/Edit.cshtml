@@ -1,0 +1,74 @@
+﻿@using GastroApp.Models.Pracownicy.ViewModel
+@model PracownikRegister
+@{
+    ViewData["Title"] = "Edytowanie pracownika";
+}
+
+<br />
+<br />
+
+<h2>Edytowanie pracownika</h2>
+
+<form asp-action="Edit" method="post">
+    
+    <div class="p-4 rounded border">
+        <div asp-validation-summary="ModelOnly" class="text-danger">
+        </div>
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Imie"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Imie" class="form-control" />
+                <span asp-validation-for="Imie" class="text-danger"></span>
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Nazwisko"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Nazwisko" class="form-control" />
+                <span asp-validation-for="Nazwisko" class="text-danger"></span>
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Email"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Telefon"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Telefon" class="form-control" />
+                <span asp-validation-for="Telefon" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    
+    <br/>
+    <div>
+        <input type="submit" class="btn btn-info" value="Zedytuj" />
+        <a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>
+    </div>
+</form>
+
+
+
+
+@section scripts
+    {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }

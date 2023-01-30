@@ -1,0 +1,58 @@
+﻿@model GastroApp.Models.Produkt
+@{
+    ViewData["Title"] = "Usuwanie produktu";
+}
+
+<br />
+<br />
+
+<h2>Usuwanie produktu</h2>
+
+<form asp-action="Delete" method="post">
+    <div class="p-4 rounded border">
+
+        <input type="hidden" asp-for="IdProduktu" />
+
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Nazwa"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Nazwa" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Cena"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Cena" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Opis"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Opis" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Dostepnosc"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Dostepnosc" type="checkbox" readonly="readonly" />
+            </div>
+
+        </div>
+    </div>
+    <br/>
+    <div>
+        <input type="submit" class="btn btn-danger" value="Usuń" />
+        <a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>
+    </div>
+</form>

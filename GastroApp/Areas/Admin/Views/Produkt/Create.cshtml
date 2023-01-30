@@ -1,0 +1,87 @@
+﻿@model GastroApp.Models.Produkt
+@{
+    ViewData["Title"] = "Dodawanie nowego produktu";
+}
+
+<br />
+<br />
+
+<h2>Dodawanie nowego produktu</h2>
+
+<form asp-action="Create" method="post">
+    <div class="p-4 rounded border">
+        <div asp-validation-summary="ModelOnly" class="text-danger">
+        </div>
+        <h5 class="text-danger">@ViewBag.mgs</h5>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Nazwa"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Nazwa" class="form-control" />
+                <span asp-validation-for="Nazwa" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Cena"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Cena" class="form-control" />
+                <span asp-validation-for="Cena" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Opis"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Opis" class="form-control" />
+                <span asp-validation-for="Opis" class="text-danger"></span>
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Dostepnosc"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Dostepnosc" type="checkbox" checked=""/>
+                <span asp-validation-for="Dostepnosc" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <br/>
+    <div>
+        <input type="submit" class="btn btn-success" value="Zapisz" />
+        <a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>
+    </div>
+</form>
+
+
+
+
+@section scripts
+    {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+    <script type="text/javascript">
+
+        $.validator.methods.number = function(value, element) {
+
+            console.log('validate');
+
+            return this.optional(element) || /^-?(?:\d+|\d{1,3}(?:\.\d{3})+)?(?:,\d+)?$/.test(value);
+
+        }
+
+    </script>
+}
