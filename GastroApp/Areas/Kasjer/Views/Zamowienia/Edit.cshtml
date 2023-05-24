@@ -1,0 +1,173 @@
+﻿@using GastroApp.Models.Zamowienia
+@using GastroApp.Models.Zamowienia.ViewModel
+@model Podsumowanie
+@{
+    ViewData["Title"] = "Edytowanie zamówienia";
+}
+
+@using GastroApp.Utility
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+@{
+    Klient daneKlienta = HttpContextAccessor.HttpContext.Session.Get<Klient>("daneKlienta");
+    if (daneKlienta == null)
+    {
+        daneKlienta = new Klient();
+    }
+
+    List<ListaZamowienia> listaZamowienia = HttpContextAccessor.HttpContext.Session.Get<List<ListaZamowienia>>("listaZamowienia");
+    if (listaZamowienia == null)
+    {
+        listaZamowienia = new List<ListaZamowienia>();
+    }
+}
+
+<br />
+<br />
+<div class="col-6">
+    <h2>Edytowanie zamówienia</h2>
+</div>
+
+<br />
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="IdZamowienia" />
+    <frameset cols="50%,50%">
+        <frame>
+            <div>
+                <h5>Lista zamówienia</h5>
+                <table class="table table-striped border">
+                    <thead>
+                        <tr class="table-light">
+                            <th>
+                                Nazwa
+                            </th>
+                            <th>
+                                Cena
+                            </th>
+                            <th>
+                                Ilosc
+                            </th>
+                            <th>
+                                Wartosc
+                            </th>
+                            <th>
+                                Opis
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @foreach (var item in Model.ListaZamowieniaZNazwa)
+                        {
+                            {
+                                <tr>
+                                    <td>@item.Nazwa</td>
+                                    <td>@item.Cena.ToString("0.00")</td>
+                                    <td>@item.Ilosc</td>
+                                    <td>@item.Wartosc.ToString("0.00")</td>
+                                    <td>@item.Opis</td>
+                                    <td>
+                                        <a asp-action="RemoveToCard" asp-route-id="@item.IdProduktu" class="btn btn-danger">Usuń ten produkt</a>
+                                    </td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+                <h6>
+                    Wartość do zapłaty:
+                    <p class="text-primary">
+                        @Model.ListaZamowieniaZNazwa.Sum(x=>x.Wartosc).ToString("0.00")
+                    </p>
+                </h6>
+                <a asp-action="ProduktyIndex" class="btn btn-secondary">Lista produktów</a>
+            </div>
+        </frame>
+
+        <br />
+        <br />
+
+        <frame>
+            <h5>Dane klienta</h5>
+
+            <div class="p-4 rounded border">
+                <div class="form-group row">
+                    <div class="col-2">
+                        <label asp-for="Adres"></label>
+                    </div>
+                    <div class="col-5">
+                        <input asp-for="Adres" class="form-control" readonly="readonly" />
+                    </div>
+                </div>
+                <br />
+                <div class="form-group row">
+                    <div class="col-2">
+                        <label asp-for="Miasto"></label>
+                    </div>
+                    <div class="col-5">
+                        <input asp-for="Miasto" class="form-control" readonly="readonly" />
+                    </div>
+                </div>
+                <br />
+                <div class="form-group row">
+                    <div class="col-2">
+                        <label asp-for="KodPocztowy"></label>
+                    </div>
+                    <div class="col-5">
+                        <input asp-for="KodPocztowy" class="form-control" readonly="readonly" />
+                    </div>
+                </div>
+                <br />
+                <div class="form-group row">
+                    <div class="col-2">
+                        <label asp-for="Telefon"></label>
+                    </div>
+                    <div class="col-5">
+                        <input asp-for="Telefon" class="form-control" readonly="readonly" />
+                    </div>
+                </div>
+                <br />
+                <a asp-action="DaneKlienta" class="btn btn-secondary">Zmień dane klienta</a>
+            </div>
+        </frame>
+    </frameset>
+
+    <br />
+    <br />
+
+    <div>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="IdSposobuPlatnosci"></label>
+            </div>
+            <div class="col-5">
+                <select asp-for="IdSposobuPlatnosci" asp-items="@Model.SposobPlatnosciSelect" class="form-control"></select>
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="NrZamowienia"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="NrZamowienia" class="form-control" type="number" step="1" />
+            </div>
+        </div>
+
+    </div>
+
+    <br />
+
+    @if (listaZamowienia.Count() > 0 && daneKlienta.Adres != null && daneKlienta.Telefon != null)
+    {
+        <input type="submit" class="btn btn-info" value="Zedytuj" />
+    }
+    else
+    {
+        <p class="text-danger">Nie możesz dodać zamówienia bez listy zamówienia lub danych klienta!</p>
+        <input type="submit" class="btn btn-info disabled" value="Zedytuj" />
+    }
+    <a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>
+</form>
+

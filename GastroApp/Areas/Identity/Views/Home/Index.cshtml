@@ -1,0 +1,28 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<partial name="~/Views/Shared/_Notifications.cshtml" />
+<div class="text-center">
+    <br />
+    @if (this.User.IsInRole("Administrator"))
+    {
+        <h1 class="display-4">Witaj w GastroApp!</h1>
+        <p>Jesteś zalogowany jako Administrator!</p>
+    }
+    else if (this.User.IsInRole("Kierowca"))
+    {
+        <h1 class="display-4">Witaj w GastroApp!</h1>
+        <p>Jesteś zalogowany jako Kierowca!</p>
+    }
+    else if (this.User.IsInRole("Kasjer"))
+    {
+        <h1 class="display-4">Witaj w GastroApp!</h1>
+        <p>Jesteś zalogowany jako Kasjer!</p>
+    }
+    else
+    {
+        <h1 class="display-4">Witaj w GastroAp!</h1>
+        <p>Zaloguj się lub zarejestruj aby móc korzystać z serwisu!</p>
+    }
+</div>

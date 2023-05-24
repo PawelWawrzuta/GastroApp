@@ -1,0 +1,9 @@
+﻿@model string
+
+<td style="width: 150px">
+    <div class="btn-group">
+        <a asp-action="SetRole" class="btn btn-success" asp-route-id="@Model" title="Ustaw stanowisko"> <i class="bi bi-person-workspace"></i></i> </a>
+        <a asp-action="Details" class="btn btn-warning" asp-route-id="@Model" title="Szczegóły"> <i class="bi bi-list"></i> </a>
+        <a asp-action="Delete" class="btn btn-danger" asp-route-id="@Model" title="Usuń"> <i class="bi bi-trash"></i> </a>
+    </div>
+</td>

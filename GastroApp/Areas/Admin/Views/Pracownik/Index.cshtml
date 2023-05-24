@@ -1,0 +1,172 @@
+﻿@using GastroApp.Models.Pracownicy.ViewModel
+@model StanowiskaIndex
+@{
+    ViewData["Title"] = "Index";
+}
+<partial name="~/Views/Shared/_Notifications.cshtml" />
+<br />
+<br />
+<div class="row">
+    <div class="col-6">
+        <h2>Lista pracowników</h2>
+    </div>
+</div>
+
+<br />
+<br />
+
+<div>
+    <h4>Nowi pracownicy</h4>
+    <table class="table table-striped border">
+        <thead>
+            <tr class="table-light">
+                <th>
+                    Imię
+                </th>
+                <th>
+                    Nazwisko
+                </th>
+                <th>
+                    Telefon
+                </th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model.Pracownicy)
+            {
+                @if (item.Roles == "Nowy")
+                {
+                    <tr>
+                        <td>@item.Imie</td>
+                        <td>@item.Nazwisko</td>
+                        <td>@item.PhoneNumber</td>
+                        <td>
+                            <partial name="_ButtonPartialUserNew" model="@item.Id" />
+                        </td>
+                    </tr>
+                }
+
+            }
+        </tbody>
+    </table>
+
+
+
+    <h4>Kierowcy</h4>
+    <table class="table table-striped border">
+        <thead>
+            <tr class="table-light">
+                <th>
+                    Imię
+                </th>
+                <th>
+                    Nazwisko
+                </th>
+                <th>
+                    Telefon
+                </th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model.Pracownicy)
+            {
+                @if (item.Roles == "Kierowca")
+                {
+                    <tr>
+                        <td>@item.Imie</td>
+                        <td>@item.Nazwisko</td>
+                        <td>@item.PhoneNumber</td>
+                        <td>
+                            <partial name="_ButtonPartialUserRegular" model="@item.Id" />
+                        </td>
+                    </tr>
+                }
+
+            }
+        </tbody>
+    </table>
+
+    <h4>Kasjerzy</h4>
+    <table class="table table-striped border">
+        <thead>
+            <tr class="table-light">
+                <th>
+                    Imię
+                </th>
+                <th>
+                    Nazwisko
+                </th>
+                <th>
+                    Telefon
+                </th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model.Pracownicy)
+            {
+                @if (item.Roles == "Kasjer")
+                {
+                    <tr>
+                        <td>@item.Imie</td>
+                        <td>@item.Nazwisko</td>
+                        <td>@item.PhoneNumber</td>
+                        <td>
+                            <partial name="_ButtonPartialUserRegular" model="@item.Id" />
+                        </td>
+                    </tr>
+                }
+
+            }
+        </tbody>
+    </table>
+
+    <h4>Administratorzy</h4>
+    <table class="table table-striped border">
+        <thead>
+            <tr class="table-light">
+                <th>
+                    Imię
+                </th>
+                <th>
+                    Nazwisko
+                </th>
+                <th>
+                    Telefon
+                </th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model.Pracownicy)
+            {
+                @if (item.Roles == "Administrator")
+                {
+                    <tr>
+                        <td>@item.Imie</td>
+                        <td>@item.Nazwisko</td>
+                        <td>@item.PhoneNumber</td>
+                        <td>
+                            <partial name="_ButtonPartialUserRegular" model="@item.Id" />
+                        </td>
+                    </tr>
+                }
+
+            }
+        </tbody>
+    </table>
+
+</div>
+
+
+

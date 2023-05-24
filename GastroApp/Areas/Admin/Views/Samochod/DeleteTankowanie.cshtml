@@ -1,0 +1,86 @@
+﻿@using GastroApp.Models.Samochody.ViewModel
+@model IndexTankowania
+@{
+    ViewData["Title"] = "Usuwanie raportu tankowania";
+}
+
+<br />
+<br />
+
+<h2>Usuwanie raportu tankowania</h2>
+
+<form asp-action="DeleteTankowanie" method="post">
+    <div class="p-4 rounded border">
+
+        <input type="hidden" asp-for="IdTankowania" />
+       
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Imie"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Imie" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Nazwisko"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Nazwisko" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Data"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Data" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="NazwaRodzajuPaliwa"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="NazwaRodzajuPaliwa" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Cena"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Cena" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Ilosc"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Ilosc" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br/>
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Wartosc"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Wartosc" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+    </div>
+    
+    <br/>
+    <div>
+        <input type="submit" class="btn btn-danger" value="Usuń" />
+        <a asp-action="IndexTankowanie" asp-route-id="@Model.IdSamochodu" class="btn btn-secondary">Wróć do listy</a>
+    </div>
+</form>

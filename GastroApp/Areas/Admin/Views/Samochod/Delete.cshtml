@@ -1,0 +1,99 @@
+﻿@using GastroApp.Models.Samochody.ViewModel
+@model SamochodZRodzajemPaliwa
+@{
+    ViewData["Title"] = "Usuwanie samochodu";
+}
+
+<br />
+<br />
+
+<h2>Usuwanie samochodu</h2>
+
+<form asp-action="Delete" method="post">
+    <div class="p-4 rounded border">
+
+        <input type="hidden" asp-for="IdSamochodu" />
+
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Model"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Model" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Marka"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Marka" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="NrRejestracyjny"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="NrRejestracyjny" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Opis"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Opis" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="IdRodzajuPaliwa"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="@Model.RodzajPaliwaList.FirstOrDefault(c => c.IdRodzajuPaliwa == Model.IdRodzajuPaliwa).Nazwa" class="form-control" readonly="readonly">
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="OC"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="OC" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="AC"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="AC" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Przeglad"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Przeglad" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+
+        <h5>Czy na pewno chcesz usunąć ten samochód?</h5>
+        <p>Usunięcie samochodu spowoduje usunięcie wszystkich raportów zużycia oraz tankowania tego pojazdu.</p>
+
+    </div>
+    
+    <br/>
+    <div>
+        <input type="submit" class="btn btn-danger" value="Usuń" />
+        <a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>
+    </div>
+</form>

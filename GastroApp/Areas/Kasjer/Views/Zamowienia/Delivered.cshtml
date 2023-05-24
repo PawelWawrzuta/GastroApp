@@ -1,0 +1,149 @@
+﻿@using GastroApp.Models.Zamowienia.ViewModel
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@model ZamowieniaIndex
+
+@{
+    ViewData["Title"] = "Index";
+}
+<partial name="~/Views/Shared/_Notifications.cshtml" />
+<br />
+<br />
+<div class="row">
+    <div class="col-6">
+        <h2>Lista zamówień</h2>
+    </div>
+</div>
+
+<br />
+<div>
+    <h5>Zamówienia dostarczone</h5>
+    <table class="table table-striped border">
+        <thead>
+            <tr class="table-light">
+                <th>
+                    Kierowca
+                </th>
+                <th>
+                    Numer zamówienia
+                </th>
+                <th>
+                    Godzina przyjęcie
+                </th>
+                <th>
+                    Godzina dostarczenia
+                </th>
+                <th>
+                    Adres
+                </th>
+                <th>
+                    Sposób płatności
+                </th>
+                <th>
+                    Wartość
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @for (int i = 0; i < Model.ZamowieniaDostarczone.Count(); i++)
+            {
+                <tr>
+                    <input type="hidden" asp-for="@Model.ZamowieniaDostarczone[i].IdZamowienia" />
+                    <td>@Model.ZamowieniaDostarczone[i].UserName</td>
+                    <td>@Model.ZamowieniaDostarczone[i].NrZamowienia</td>
+                    <td>@Model.ZamowieniaDostarczone[i].DataOne.ToString("HH:mm")</td>
+                    <td>
+                        @if (@Model.ZamowieniaDostarczone[i].DataTwo.HasValue)
+                        {
+                            @Model.ZamowieniaDostarczone[i].DataTwo.Value.ToString("HH:mm")
+                        }
+                    </td>
+                    <td>@Model.ZamowieniaDostarczone[i].Adres</td>
+                    <td>@Model.ZamowieniaDostarczone[i].SposobPlatnosciNazwa</td>
+                    <td>@Model.ZamowieniaDostarczone[i].WartoscCalkowita.ToString("0.00")</td>
+                    <td style="width: 150px">
+                        <div class="btn-group">
+                            <a asp-action="Details" class="btn btn-warning" asp-route-id="@Model.ZamowieniaDostarczone[i].IdZamowienia" title="Szczegóły"> <i class="bi bi-list"></i> </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<br />
+<div>
+    @foreach (var item in Model.PodsumowanieDniaKierowcy)
+    {
+        <div class="col-4">
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h4>@item.UserName</h4>
+                </div>
+                <div class="card-header">
+                    <div>
+                        <div class="col-2" style="display: inline">
+                            <label>Ilość zamowień</label>
+                        </div>
+                        <div class="col-5" style="display: inline">
+                            <input value="@item.IloscZamowien" class="form-control" readonly="readonly" />
+                        </div>
+                        <br />
+                        <div class="col-2" style="display: inline">
+                            <label>Wartość zamówień</label>
+                        </div>
+                        <div class="col-5" style="display: inline">
+                            <input value="@item.WartoscZamowien.ToString("0.00")" class="form-control" readonly="readonly" />
+                        </div>
+                        @if (@item.WartoscGotowka != 0)
+                        {
+                            <br />
+                            <div class="col-2" style="display: inline">
+                                <label>Wartość w gotówce</label>
+                            </div>
+                            <div class="col-5" style="display: inline">
+                                <input value="@item.WartoscGotowka.ToString("0.00")" class="form-control" readonly="readonly" />
+                            </div>
+                        }
+                        @if (@item.WartoscKarta != 0)
+                        {
+                            <br />
+                            <div class="col-2" style="display: inline">
+                                <label>Wartość w karcie</label>
+                            </div>
+                            <div class="col-5" style="display: inline">
+                                <input value="@item.WartoscKarta.ToString("0.00")" class="form-control" readonly="readonly" />
+                            </div>
+                        }
+                        @if (@item.WartoscOnline != 0)
+                        {
+                            <br />
+                            <div class="col-2" style="display: inline">
+                                <label>Wartość w online</label>
+                            </div>
+                            <div class="col-5" style="display: inline">
+                                <input value="@item.WartoscOnline.ToString("0.00")" class="form-control" readonly="readonly" />
+                            </div>
+                        }
+                        @if (@item.WartoscTankowan != 0)
+                        {
+                            <br />
+                            <div class="col-2" style="display: inline">
+                                <label style="color :green; ">Wartość tankowań</label>
+                            </div>
+                            <div class="col-5" style="display: inline">
+                                <input value="@item.WartoscTankowan.ToString("0.00")" class="form-control" readonly="readonly" />
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+<br />
+<a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>

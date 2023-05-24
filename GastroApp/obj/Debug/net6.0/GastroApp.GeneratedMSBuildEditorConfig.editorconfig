@@ -1,0 +1,440 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GastroApp
+build_property.RootNamespace = GastroApp
+build_property.ProjectDir = D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Pracownik/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJhY293bmlrXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Pracownik/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJhY293bmlrXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Pracownik/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJhY293bmlrXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Pracownik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJhY293bmlrXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Pracownik/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJhY293bmlrXExvY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Pracownik/SetRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJhY293bmlrXFNldFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Pracownik/_ButtonPartialUserNew.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJhY293bmlrXF9CdXR0b25QYXJ0aWFsVXNlck5ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Pracownik/_ButtonPartialUserRegular.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJhY293bmlrXF9CdXR0b25QYXJ0aWFsVXNlclJlZ3VsYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Produkt/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVrdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Produkt/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVrdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Produkt/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVrdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Produkt/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVrdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Produkt/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVrdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Samochod/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Ftb2Nob2RcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Samochod/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Ftb2Nob2RcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Samochod/DeleteTankowanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Ftb2Nob2RcRGVsZXRlVGFua293YW5pZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Samochod/DeleteZuzycie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Ftb2Nob2RcRGVsZXRlWnV6eWNpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Samochod/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Ftb2Nob2RcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Samochod/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Ftb2Nob2RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Samochod/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Ftb2Nob2RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Samochod/IndexTankowanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Ftb2Nob2RcSW5kZXhUYW5rb3dhbmllLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/Samochod/IndexZuzycie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2Ftb2Nob2RcSW5kZXhadXp5Y2llLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/ConfirmEmailChange.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/ExternalLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/ForgotPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Lockout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/LoginWith2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/LoginWithRecoveryCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/DeletePersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/Disable2fa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/DownloadPersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/Email.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/EnableAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/ExternalLogins.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/PersonalData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/ResetAuthenticator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/SetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/_ManageNav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Manage/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/RegisterConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/ResendEmailConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/ResetPasswordConfirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pracownik/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUHJhY293bmlrXENoYW5nZVBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pracownik/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUHJhY293bmlrXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pracownik/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUHJhY293bmlrXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pracownik/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUHJhY293bmlrXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pracownik/WinLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUHJhY293bmlrXFdpbkxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/Pracownik/WinRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcUHJhY293bmlrXFdpblJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Identity/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/NoweZamowienie/DaneKlienta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXE5vd2VaYW1vd2llbmllXERhbmVLbGllbnRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/NoweZamowienie/Podsumowanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXE5vd2VaYW1vd2llbmllXFBvZHN1bW93YW5pZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/NoweZamowienie/ProduktDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXE5vd2VaYW1vd2llbmllXFByb2R1a3REZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/NoweZamowienie/ProduktyIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXE5vd2VaYW1vd2llbmllXFByb2R1a3R5SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/Zamowienia/DaneKlienta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXFphbW93aWVuaWFcRGFuZUtsaWVudGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/Zamowienia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXFphbW93aWVuaWFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/Zamowienia/Delivered.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXFphbW93aWVuaWFcRGVsaXZlcmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/Zamowienia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXFphbW93aWVuaWFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/Zamowienia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXFphbW93aWVuaWFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/Zamowienia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXFphbW93aWVuaWFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/Zamowienia/Map.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXFphbW93aWVuaWFcTWFwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/Zamowienia/MapDriver.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXFphbW93aWVuaWFcTWFwRHJpdmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/Zamowienia/ProduktDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXFphbW93aWVuaWFcUHJvZHVrdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/Zamowienia/ProduktyIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXFphbW93aWVuaWFcUHJvZHVrdHlJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kasjer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2FzamVyXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kierowca/Views/Samochod/CreateTankowanie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2llcm93Y2FcVmlld3NcU2Ftb2Nob2RcQ3JlYXRlVGFua293YW5pZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kierowca/Views/Samochod/CreateZuzycie.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2llcm93Y2FcVmlld3NcU2Ftb2Nob2RcQ3JlYXRlWnV6eWNpZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kierowca/Views/Zamowienia/ConfirmOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2llcm93Y2FcVmlld3NcWmFtb3dpZW5pYVxDb25maXJtT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kierowca/Views/Zamowienia/Delivered.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2llcm93Y2FcVmlld3NcWmFtb3dpZW5pYVxEZWxpdmVyZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kierowca/Views/Zamowienia/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2llcm93Y2FcVmlld3NcWmFtb3dpZW5pYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kierowca/Views/Zamowienia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2llcm93Y2FcVmlld3NcWmFtb3dpZW5pYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kierowca/Views/Zamowienia/Map.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2llcm93Y2FcVmlld3NcWmFtb3dpZW5pYVxNYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kierowca/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2llcm93Y2FcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Areas/Kierowca/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcS2llcm93Y2FcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Views/Shared/_ButtonPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdXR0b25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Views/Shared/_Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Dokumenty/Studia/Informatyka/I stopień - inżynierskie/Praca inżynierska/GastroApp/GastroApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-z92x3koydm

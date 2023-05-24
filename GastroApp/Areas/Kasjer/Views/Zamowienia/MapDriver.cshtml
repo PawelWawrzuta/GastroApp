@@ -1,0 +1,152 @@
+﻿@using GastroApp.Models.Pracownicy
+@model Pracownik
+@{
+    ViewData["Title"] = "Mapa";
+}
+@*mapa*@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+
+@*searcher*@
+<link rel="stylesheet" href="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.css" />
+<script src="https://unpkg.com/leaflet-control-geocoder/dist/Control.Geocoder.js"></script>
+
+@*routing*@
+<link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.css" />
+<script src="https://unpkg.com/leaflet-routing-machine@latest/dist/leaflet-routing-machine.js"></script>
+
+<style>
+    #map {
+        position: absolute;
+        top: 9%;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+</style>
+
+<div class="text-center">
+    <div id="map" style="width: 100%; height: 100%;">
+    </div>
+
+</div>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+
+<script>
+    var map = L.map('map').setView([49.82173913028248, 19.044879000795255], 12);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+
+    L.Control.geocoder().addTo(map);
+
+    var greenIcon = new L.Icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+    });
+    var redIcon = new L.Icon({
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41]
+    });
+
+    var baza = new L.LatLng(49.78330665233279, 19.05774462246947);
+    var marker = L.marker([49.78330665233279, 19.05774462246947], { icon: greenIcon }).addTo(map);
+    marker.bindPopup("ATH");
+
+    var control = L.Routing.control({
+        waypoints: [],
+        draggableWaypoints: false,
+        addWaypoints: false,
+        fitSelectedRoutes: false,
+        lineOptions: {
+            styles: [{ color: 'red', opacity: 1, weight: 3 }]
+        },
+        createMarker: function(i, waypoints, n) {
+            L.icon({});
+        }
+    }).addTo(map);
+
+    var url = "@Url.Action("GetCoordinatesDriver")" + "?idPracownika=" + "@Model.Id" + "&idStatusu=" + 3;
+    $.ajax({
+        url: url,
+        method: "GET",
+        dataType: "json",
+        success: function(result) {
+            console.log(result);
+            var waypoints = [baza];
+            for (var i = 0; i < result.value.length; i++) {
+                var lat = result.value[i].latitude;
+                var lon = result.value[i].longitude;
+                var address = result.value[i].address;
+                var dataOne = result.value[i].dataOne;
+                var nr = result.value[i].nrZamowienia;
+
+                var newLatLng = new L.LatLng(lat, lon);
+               waypoints.push(newLatLng);;
+
+                var marker = L.marker([lat, lon], { icon: redIcon }).addTo(map);
+                marker.bindPopup(address + "<br>" + dataOne + "<br>" + nr);
+
+            }
+            waypoints.push(baza);
+            control.setWaypoints(waypoints);
+        },
+        error: function(req, status, error) {
+            console.log(error);
+        }
+    });
+
+
+    var control2 = L.Routing.control({
+        waypoints: [],
+        draggableWaypoints: false,
+        addWaypoints: false,
+        fitSelectedRoutes: false,
+        lineOptions: {
+            styles: [{ color: 'blue', opacity: 1, weight: 1 }]
+        },
+        createMarker: function(i, waypoints, n) {
+            L.icon({});
+        }
+    }).addTo(map);
+
+    var url2 = "@Url.Action("GetCoordinatesDriver")" + "?idPracownika=" + "@Model.Id" + "&idStatusu=" + 2;
+    $.ajax({
+        url: url2,
+        method: "GET",
+        dataType: "json",
+        success: function(result) {
+            console.log(result);
+
+            var waypoints2 = [baza];
+            for (var i = 0; i < result.value.length; i++) {
+                var lat = result.value[i].latitude;
+                var lon = result.value[i].longitude;
+                var address = result.value[i].address;
+                var dataOne = result.value[i].dataOne;
+                var nr = result.value[i].nrZamowienia;
+
+                var newLatLng = new L.LatLng(lat, lon);
+                waypoints2.push(newLatLng);
+
+                var marker = L.marker([lat, lon]).addTo(map);
+                marker.bindPopup(address + "<br>" + dataOne + "<br>" + nr);
+            }
+             waypoints2.push(baza);
+            control2.setWaypoints(waypoints2);
+        },
+        error: function(req, status, error) {
+            console.log(error);
+        }
+    });
+
+</script>

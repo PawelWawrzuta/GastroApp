@@ -1,0 +1,135 @@
+﻿@model GastroApp.Models.Zamowienia.ViewModel.Podsumowanie
+@{
+    ViewData["Title"] = "Szczegóły zamówienia";
+}
+
+<br />
+<br />
+
+<h2>Szczegóły zamówienia</h2>
+<br />
+<input type="hidden" asp-for="IdZamowienia" />
+
+<frameset cols="50%,50%">
+    <frame>
+            <h5>Lista zamówienia</h5>
+            <table class="table table-striped border">
+                <thead>
+                    <tr class="table-light">
+                        <th>
+                            Nazwa
+                        </th>
+                        <th>
+                            Cena
+                        </th>
+                        <th>
+                            Ilosc
+                        </th>
+                        <th>
+                            Wartosc
+                        </th>
+                        <th>
+                            Opis
+                        </th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var item in Model.ListaZamowieniaZNazwa)
+                    {
+                        {
+                            <tr>
+                                <td>@item.Nazwa</td>
+                                <td>@item.Cena.ToString("0.00")</td>
+                                <td>@item.Ilosc</td>
+                                <td>@item.Wartosc.ToString("0.00")</td>
+                                <td>@item.Opis</td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+    </frame>
+
+    <br />
+    <br />
+
+    <frame>
+        <h5>Dane klienta</h5>
+        <div class="p-4 rounded border">
+            <div class="form-group row">
+                <div class="col-2">
+                    <label asp-for="Adres"></label>
+                </div>
+                <div class="col-5">
+                    <input asp-for="Adres" class="form-control" readonly="readonly" />
+                </div>
+            </div>
+            <br />
+            <div class="form-group row">
+                <div class="col-2">
+                    <label asp-for="Miasto"></label>
+                </div>
+                <div class="col-5">
+                    <input asp-for="Miasto" class="form-control" readonly="readonly" />
+                </div>
+            </div>
+            <br />
+            <div class="form-group row">
+                <div class="col-2">
+                    <label asp-for="KodPocztowy"></label>
+                </div>
+                <div class="col-5">
+                    <input asp-for="KodPocztowy" class="form-control" readonly="readonly" />
+                </div>
+            </div>
+            <br />
+            <div class="form-group row">
+                <div class="col-2">
+                    <label asp-for="Telefon"></label>
+                </div>
+                <div class="col-5">
+                    <input asp-for="Telefon" class="form-control" readonly="readonly" />
+                </div>
+            </div>
+        </div>
+    </frame>
+</frameset>
+
+<br />
+<br />
+
+<div>
+    <div class="form-group row">
+        <div class="col-2">
+            <label asp-for="NazwaSposobuPlatnosci"></label>
+        </div>
+        <div class="col-5">
+            <input asp-for="NazwaSposobuPlatnosci" class="form-control" readonly="readonly" />
+        </div>
+    </div>
+    <br />
+    <div class="form-group row">
+        <div class="col-2">
+            <label asp-for="NrZamowienia"></label>
+        </div>
+        <div class="col-5">
+            <input asp-for="NrZamowienia" class="form-control" readonly="readonly" />
+        </div>
+    </div>
+    <br />
+    <div class="form-group row">
+        <div class="col-2">
+            <label asp-for="NazwaStatusu"></label>
+        </div>
+        <div class="col-5">
+            <input asp-for="NazwaStatusu" class="form-control" readonly="readonly" />
+        </div>
+    </div>
+</div>
+
+<br />
+<div>
+    <a asp-action="Edit" class="btn btn-info" asp-route-id="@Model.IdZamowienia">Edytuj</a>
+    <a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>
+</div>

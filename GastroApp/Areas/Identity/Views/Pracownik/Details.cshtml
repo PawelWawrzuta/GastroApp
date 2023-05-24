@@ -1,0 +1,80 @@
+﻿@using  GastroApp.Models.Pracownicy.ViewModel;
+@model PracownikIndex;
+@{
+    ViewData["Title"] = "Szczegóły pracownika";
+}
+
+<br />
+<br />
+
+<h2>Szczegóły pracownika</h2>
+
+<form asp-action="" method="post">
+    <div class="p-4 rounded border">
+
+        <input type="hidden" asp-for="Id" />
+
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Imie"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Imie" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Nazwisko"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Nazwisko" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="UserName">Nazwa użytkownika</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="UserName" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="Email"></label>
+            </div>
+            <div class="col-5">
+                <input asp-for="Email" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        <br />
+        <div class="form-group row">
+            <div class="col-2">
+                <label asp-for="PhoneNumber">Telefon</label>
+            </div>
+            <div class="col-5">
+                <input asp-for="PhoneNumber" class="form-control" readonly="readonly" />
+            </div>
+        </div>
+        @if (Model.Roles != "Nowy")
+        {
+            <br />
+            <div class="form-group row">
+                <div class="col-2">
+                    <label asp-for="Roles">Stanowisko</label>
+                </div>
+                <div class="col-5">
+                    <input asp-for="Roles" class="form-control" readonly="readonly" />
+                </div>
+            </div>
+        }
+        <br/>
+        <p class="text-primary">Jeśli twoje dane nie są poprawne, skontaktuj się z administratorem.</p>
+    </div>
+    <br/>
+    <div>
+        <a asp-action="ChangePassword" class="btn btn-info" asp-route-id="@Model.Id">Zmień hasło</a>
+    </div>
+</form>

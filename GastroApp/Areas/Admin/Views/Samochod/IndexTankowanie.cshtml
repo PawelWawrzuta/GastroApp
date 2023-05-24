@@ -1,0 +1,67 @@
+﻿@using GastroApp.Models.Samochody.ViewModel
+@model IEnumerable<IndexTankowania>
+@{
+    ViewData["Title"] = "Index";
+}
+<br />
+<br />
+<partial name="~/Views/Shared/_Notifications.cshtml" />
+<div class="row">
+    <div class="col-6">
+        <h2>Lista raportów tankowania</h2>
+    </div>
+</div>
+
+<br />
+<div>
+    <table class="table table-striped border">
+        <thead>
+            <tr class="table-light">
+                <th>
+                    @Html.DisplayNameFor(c => c.Imie)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.Nazwisko)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.Data)
+                </th>
+                 <th>
+                    @Html.DisplayNameFor(c => c.NazwaRodzajuPaliwa)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.Cena)
+                </th><th>
+                    @Html.DisplayNameFor(c => c.Ilosc)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(c => c.Wartosc)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model.Reverse())
+            {
+                <tr>
+                    <td>@item.Imie</td>
+                    <td>@item.Nazwisko</td>
+                    <td>@item.Data.ToString("dd/MM/yyyy")</td>
+                    <td>@item.NazwaRodzajuPaliwa</td>
+                    <td>@item.Cena.ToString("0.00")</td>
+                    <td>@item.Ilosc</td>
+                    <td>@item.Wartosc.ToString("0.00")</td>
+
+                    <td>
+                        <a asp-action="DeleteTankowanie" class="btn btn-danger" asp-route-id="@item.IdTankowania" title="Usuń"> <i class="bi bi-trash"></i> </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+
+    </table>
+</div>
+
+

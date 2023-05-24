@@ -1,0 +1,846 @@
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.staticwebassets.runtime.json
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.exe
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.deps.json
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.runtimeconfig.json
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.pdb
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.csproj.AssemblyReference.cache
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.AssemblyInfoInputs.cache
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.AssemblyInfo.cs
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.RazorAssemblyInfo.cache
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.RazorAssemblyInfo.cs
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\scopedcss\bundle\GastroApp.styles.css
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\scopedcss\projectbundle\GastroApp.bundle.scp.css
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.csproj.CopyComplete
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\refint\GastroApp.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.pdb
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.genruntimeconfig.cache
+C:\Users\Ja\Desktop\GastroApp\GastroApp\obj\Debug\net6.0\ref\GastroApp.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\AttributeRouting.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Rock.Core.dll
+C:\Users\Ja\Desktop\GastroApp\GastroApp\bin\Debug\net6.0\Rock.Core.Newtonsoft.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\appsettings.json
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\GastroApp.staticwebassets.runtime.json
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\GastroApp.exe
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\GastroApp.deps.json
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\GastroApp.runtimeconfig.json
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\GastroApp.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\GastroApp.pdb
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\AttributeRouting.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Rock.Core.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\Rock.Core.Newtonsoft.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.csproj.AssemblyReference.cache
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.AssemblyInfoInputs.cache
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.AssemblyInfo.cs
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.csproj.CoreCompileInputs.cache
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.RazorAssemblyInfo.cache
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.RazorAssemblyInfo.cs
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\scopedcss\bundle\GastroApp.styles.css
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\scopedcss\projectbundle\GastroApp.bundle.scp.css
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.csproj.CopyComplete
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\refint\GastroApp.dll
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.pdb
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\GastroApp.genruntimeconfig.cache
+C:\Users\Ja\Desktop\Nowy folder\GastroApp\obj\Debug\net6.0\ref\GastroApp.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\appsettings.Development.json
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\appsettings.json
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.staticwebassets.runtime.json
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.exe
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.deps.json
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.runtimeconfig.json
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\GastroApp.pdb
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\AttributeRouting.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Humanizer.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\MessagePack.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.Mvc.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.Razor.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.Helpers.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Web.WebPages.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Common.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Rock.Core.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\Rock.Core.Newtonsoft.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.csproj.AssemblyReference.cache
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.AssemblyInfoInputs.cache
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.AssemblyInfo.cs
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.csproj.CoreCompileInputs.cache
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.RazorAssemblyInfo.cache
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.RazorAssemblyInfo.cs
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\scopedcss\bundle\GastroApp.styles.css
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\scopedcss\projectbundle\GastroApp.bundle.scp.css
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.csproj.CopyComplete
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\refint\GastroApp.dll
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.pdb
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\GastroApp.genruntimeconfig.cache
+D:\Dokumenty\Studia\Informatyka\I stopień - inżynierskie\Praca inżynierska\GastroApp\GastroApp\obj\Debug\net6.0\ref\GastroApp.dll
